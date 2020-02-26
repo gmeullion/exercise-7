@@ -219,8 +219,8 @@
       </section>
     </main>
 
-    <footer>
+    <!--<footer>
       <p><small>Source: <a href="https://www.constituteproject.org/constitution/United_States_of_America_1992">Constitute</a></small></p>
-    </footer>
+    </footer>-->
   </body>
 </html>
