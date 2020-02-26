@@ -4,17 +4,14 @@
     <meta charset="UTF-8" />
     <title>United States Constitution</title>
   </head>
-
   <body>
-
     <header>
       <h1>United States Constitution</h1>
     </header>
-
     <nav>
       <ul>
-        <li>Preamble</li>
-        <li>Articles
+      <li><a href="preamble">Preamble</li>
+        <li><a href"articles>Articles</>li
           <ul>
             <li>I</li>
             <li>II</li>
@@ -25,7 +22,7 @@
             <li>VII</li>
           </ul>
         </li>
-        <li>Amendments
+        <li>a href="amendments">Amendments</li>
           <ul>
             <li>I</li>
             <li>II</li>
@@ -61,14 +58,14 @@
 
     <main>
 
-      <section>
+      <section id="preamble">
         <h2>Preamble</h2>
 
         <p>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
       </section>
 
 
-      <section>
+      <section id="articles">
         <h2>Articles</h2>
 
         <article>
@@ -115,7 +112,7 @@
       </section>
 
 
-      <section>
+      <section id="amendments">
         <h2>Amendments</h2>
 
         <article>
