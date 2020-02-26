@@ -11,7 +11,7 @@
     <nav>
       <ul>
       <li><a href="preamble">Preamble</li>
-        <li><a href"articles>Articles</>li
+        <li><a href"articles>Articles</li>
           <ul>
             <li>I</li>
             <li>II</li>
@@ -22,7 +22,7 @@
             <li>VII</li>
           </ul>
         </li>
-        <li>a href="amendments">Amendments</li>
+        <li><a href="amendments">Amendments</li>
           <ul>
             <li>I</li>
             <li>II</li>
