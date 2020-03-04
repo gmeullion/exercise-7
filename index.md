@@ -1,65 +1,65 @@
 <!DOCTYPE html>
-Sol	<html lang="en">
-	  <head>
-	    <meta charset="UTF-8" />
-	    <title>United States Constitution</title>
-	    <link href="css/style.css" rel="stylesheet" />
-	  </head>
-	  <body>
-	    <header>
-	      <h1>United States Constitution</h1>
-	    </header>
-	    <nav>
+<html lang="en">
+  <headx
+    <meta charset="UTF-8"/>
+    <!--<title>United States Constitution</title>-->
+  <link a href="css/styl.css" rel="stylesheet"/>
+</head>
+<body>
+<header>
+	<h1>United States Constitution</h1>
+	 </header>
+	  <nav>
+	   <ul>
+	   <li><a href="#preamble">Preamble</a></li>
+	    <li><a href="#articles">Articles</a>
+	     <ul>
+	      <li>I</li>
+	      <li>II</li>
+	      <li>III</li>
+	      <li>IV</li>
+	      <li>V</li>
+	      <li>VI</li>
+	      <li>VII</li>
+	     </ul>
+	    </li>
+	    <li><a href="#amendments">Amendments</a>
 	      <ul>
-	        <li><a href="#preamble">Preamble</a></li>
-	        <li><a href="#articles">Articles</a>
-	          <ul>
-	            <li>I</li>
-	            <li>II</li>
-	            <li>III</li>
-	            <li>IV</li>
-	            <li>V</li>
-	            <li>VI</li>
-	            <li>VII</li>
-	          </ul>
-	        </li>
-	        <li><a href="#amendments">Amendments</a>
-	          <ul>
-	            <li>I</li>
-	            <li>II</li>
-	            <li>III</li>
-	            <li>IV</li>
-	            <li>V</li>
-	            <li>VI</li>
-	            <li>VII</li>
-	            <li>VIII</li>
-	            <li>IX</li>
-	            <li>X</li>
-	            <li>XI</li>
-	            <li>XII</li>
-	            <li>XIII</li>
-	            <li>XIV</li>
-	            <li>XV</li>
-	            <li>XVI</li>
-	            <li>XVII</li>
-	            <li>XVIII</li>
-	            <li>XIX</li>
-	            <li>XX</li>
-	            <li>XXI</li>
-	            <li>XXII</li>
-	            <li>XXIII</li>
-	            <li>XXIV</li>
-	            <li>XXV</li>
-	            <li>XXVI</li>
-	            <li>XXVII</li>
-	          </ul>
-	        </li>
+	       <li>I</li>
+	       <li>II</li>
+	       <li>III</li>
+	       <li>IV</li>
+	       <li>V</li>
+	       <li>VI</li>
+	       <li>VII</li>
+	       <li>VIII</li>
+	       <li>IX</li>
+	       <li>X</li>
+	       <li>XI</li>
+	       <li>XII</li>
+	       <li>XIII</li>
+	       <li>XIV</li>
+	       <li>XV</li>
+	       <li>XVI</li>
+	       <li>XVII</li>
+	       <li>XVIII</li>
+	       <li>XIX</li>
+	       <li>XX</li>
+	       <li>XXI</li>
+	       <li>XXII</li>
+	       <li>XXIII</li>
+	       <li>XXIV</li>
+	       <li>XXV</li>
+	       <li>XXVI</li>
+	       <li>XXVII</li>
+	      </ul>
+	     </li>
 	      </ul>
 	    </nav>
 	    <main>
-	      <section id="preamble">
-	        <h2>Preamble</h2>
-	        <p>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
+ <section id="preamble">
+	 <h2>Preamble</h2>
+	  <p>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
 	      </section>
 	      <section id="articles">
 	        <h2>Articles</h2>
